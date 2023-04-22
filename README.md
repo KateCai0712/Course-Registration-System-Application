@@ -1,1 +1,1 @@
-# Course-Registration-System-Application
+# University Course Registration System using OOP
