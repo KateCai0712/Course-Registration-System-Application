@@ -31,8 +31,8 @@ Course name, course id, maximum number of students registered in the course, cur
     5. View all courses that the current student is being registered in
     6. Exit
 - During the design meeting with your team you agreed to adopt the following design:
-- **Req 05:** Define an Interface for admin class that will have the methods􏰓 signatures that will be used by the Admin
-- **Req 06:** Define an Interface for a student class that will have the methods􏰓 signatures that will be used by the student.
+- **Req 05:** Define an Interface for admin class that will have the methods' signatures that will be used by the Admin
+- **Req 06:** Define an Interface for a student class that will have the methods' signatures that will be used by the student.
 - **Req 07:** Both classes Admin and Student inherit from a class named User.
 A user should have at least the following class members: username, password, first name, and last name (We will need to decide on the methods a User's class that could be inherited or overridden by the student and the admin class)
 - **Req 08:** At the beginning of launching the program, you will need to read all the courses information from the comma delimited file MyUniversityCourses.csv into an ArrayList of Course Objects. Notice that initially the number of students registered is zero, and the student list is null (there are not students registered in the class at the beginning)
